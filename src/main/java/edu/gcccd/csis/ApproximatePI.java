@@ -5,7 +5,6 @@ import java.util.Random;
 public class ApproximatePI {
     public static void main(String[] args) {
         System.out.println(value());
-        System.out.println(Math.PI);
     }
 
     public static float value() {
